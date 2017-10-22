@@ -3,11 +3,12 @@
   <groupId>eclnt</groupId>
   <artifactId>ccaddons</artifactId>
   <versioning>
-    <release>20171016</release>
+    <release>20171017</release>
     <versions>
       <version>20170725</version>
       <version>20171016</version>
+      <version>20171017</version>
     </versions>
-    <lastUpdated>20171022184803</lastUpdated>
+    <lastUpdated>20171022185707</lastUpdated>
   </versioning>
 </metadata>
